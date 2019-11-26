@@ -1,0 +1,78 @@
+Demonstrate Good Product Domain Knowledge by:
+
+Get smart on business domain by meeting with business to understand the current process and future state project goals.
+Get smart on current state   
+•	Find existing requirements for capabilities/functions.  Lead review of existing requirements with the team.     
+•	Work with Product Owner/SMI to walk run through functionality to gain understanding of current state.  (ex: discussions/meetings, demos of existing online functionality, etc)     
+•	Work with team to locate and review existing diagrams, process flows, etc
+
+Participate with team in driving and defining scope.     
+•	Be actively involved with team in identifying and defining expected project outcomes     
+•	Be actively involved with team in defining and prioritizing MMFs     
+•	Work with business team to determine the business value of each feature.      
+•	Work with development team to estimate size of each feature
+
+Work with Product Owner to educate tech team on business domain and project scope     
+•	Review project scope with development team.      
+•	Provide overview of business functions and capabilities.     
+•	Review any models that may have been created with team (process flows, system models, UI visions/prototypes)
+
+Demonstrate Good Product Acceptance Testing by:
+
+Program level test strategy tasks and activities:     
+•	Be actively involved in determining if there is a program level need for a test strategy          
+•	If there will be one, be involved in defining the strategy          
+•	If one is already defined, locate and communicate strategy to team
+
+Project test strategy (Not all projects need a test strategy.):     
+•	Be actively involved with team in defining the test approach for capabilities being developed.     
+•	Be actively involved with team in determining the area of system where most risk exists in order to mitigate this risk     
+•	Be actively involved with team in defining the areas of system where significant amount of processing occurs to focus testing on high impact areas     
+•	Be actively involved with team in defining a testing strategy that ensures adequate coverage.     
+•	Be actively involved with team in identifing where automated tests may not apply.      
+•	Be actively involved with team in identifing specific data needs that require setup or creation.     
+•	Be actively involved with team in identifing any roadblocks/challenges that may occur.     
+•	Be actively involved with team in identifing in coordinating an integration test approach between teams     
+•	Be actively involved with team in identifying all types of testing required for the project, including but not limited to, Regression Testing, Accessibility  Testing, Device Testing and Browser/Platform Testing
+
+Determine story level test strategy      
+•	Make sure a testing approach is defined for each user story and tech story when appropriate. (note: tests are not soley feature files)     
+•	Ensure user stories have GWT scenarios documented for them when using Cucumber automation.     
+•	Work with team to determine which scenarios can be tested manually and which scenarios can be automated.     
+•	Validate each user story has documented automated or manual test coverage
+
+Understand automated tools used for testing     
+•	Understand use of various testing tools and what types of tests they should be applied to
+
+Encourage team to automate testing where possible, at lowest level where possible.     
+•	Work with development team to best leverage unit & integration testing
+
+Collaborate with developers on ATDD & TDD as it relates to example mapping, scenario creation, and test strategy & coverage     
+•	Work with team to ensure a clear understanding of requirements and acceptance test     
+•	Collaborate with developers on what needs to be tested and at what level     
+•	Participate in test code reviews     
+•	Work with team to identify any testing gaps that may exist     
+•	Work with team to review testing related metrics (i.e., sonar)     
+•	Work with team to understand the boundaries of code being built by your team vs code being built by other team(s)
+
+Demonstrate Good Product Delivery and Support by:
+
+Create a schedule/plan for story discovery      
+•	Schedule Collaboration sessions with 3 amigos and team as necessary.     
+•	Work with team to determine the need for regular recurring collaboration meetings with additional team members (ex: example mapping tasks that includes developer participation)
+
+Facilitate requirements collaboration meetings (and ATDD/Example Mapping sessions if using this technique)
+•	Become proficient at driving out scenarios for each story and capability     
+•	Use different ways to articulate requirements as the project demands.     
+•	Example: Document logical flow (diagrams), with acceptance criteria
+
+Document stories, rules, and examples     
+•	Work with the team and stakeholders to define stories and rules.     
+•	Be actively involved with team to continually decompose and define scenarios (ie. example mapping) with acceptance criteria     
+•	Be actively involved with team to finalize stories, rules, examples (and where applicable G/W/T) for inclusion on project story board.
+
+Triage User Production Support Issues     
+•	Review Production Incident for when end users are having issues and work with them to determine whether it’s lack of knowledge, client experience, or an actual product incident that needs to be resolved
+•	Document expected behavior based on test acceptance criteria vs what the system is actually doing
+•	If missing acceptance criteria or test case, update Product Acceptance Test inventory to be comprehensive
+
